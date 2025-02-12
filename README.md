@@ -2,7 +2,9 @@
 
 This repository contains a number of notes and resources related to using Falcon LogScale, the CrowdStrike Query Language (CQL), and Falcon Next-Gen SIEM.
 
-It **only** contains publicly available information.  When known/available, sources are cited and links provided.  (_Because giving people credit for their work is always the right thing to do._)
+It **only** contains publicly available information.  
+
+When known/available, sources are cited and links provided.  (_Because giving people credit for their work is always the right thing to do._)
 
 Huge thanks to [Jack Turner](https://github.com/cyberjack256/cyberjack256) for getting me started with this collection.
 
